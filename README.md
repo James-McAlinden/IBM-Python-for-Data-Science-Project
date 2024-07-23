@@ -1,4 +1,4 @@
-# IBM-Python-for-Data-Science-Project
+# IBM Python For Data Science Project
 
 This was a course where I demonstrated key Python skills for working with data. These key skills included extracting data, web scraping, visualising data, and creating a dashboard.
 
